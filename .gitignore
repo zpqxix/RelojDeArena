@@ -1,0 +1,9 @@
+# .gitignore for .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.log
+*.vsconfig
